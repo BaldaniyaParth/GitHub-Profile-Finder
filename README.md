@@ -18,7 +18,7 @@ This project is built using the following technologies:
 
 ## 🌐 Project Live Location
 
-Check out the live version of the project here: [GitHub Profile Finder]()
+Check out the live version of the project here: [GitHub Profile Finder](https://githubprofilefinder-parth.netlify.app/)
 
 ## 🚀 Key Features
 
